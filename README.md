@@ -1,18 +1,5 @@
 # Parallel Execution in Selenium - Complete Guide 🚀
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Why Parallel Execution Matters](#why-parallel-execution-matters)
-- [What You'll Find in This Repository](#what-youll-find-in-this-repository)
-- [Project Structure](#project-structure)
-- [Implementation Approaches](#implementation-approaches)
-- [Getting Started](#getting-started)
-- [Technologies Used](#technologies-used)
-- [Key Concepts](#key-concepts)
-- [Performance Comparison](#performance-comparison)
-- [Contributing](#contributing)
-
----
 
 ## 🎯 Overview
 
