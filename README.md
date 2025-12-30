@@ -133,8 +133,6 @@ cd remote-webdriver
 ```
 
 
-```
-
 ### Quick Start Guide
 
 **Option 1: Start with DataProvider (Simplest)**
