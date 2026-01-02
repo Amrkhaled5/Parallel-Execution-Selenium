@@ -32,9 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="37TfU70XwUV4ELpzDrJpkXUdsw8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,7 +48,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.D:/Tarek Roshdy Automation Course/Parallel-Execution-In-Selenium/threadlocal-RemoteWebDriver/ThreadLocal-RemoteWebDriver/testng.xml.executor": "Run",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Tarek Roshdy Automation Course/Parallel-Execution-In-Selenium/threadlocal-RemoteWebDriver/ThreadLocal-RemoteWebDriver/src/test/java"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Tarek Roshdy Automation Course/Parallel-Execution-Selenium/ThreadLocal-RemoteWebDriver"
   }
 }]]></component>
   <component name="RecentsManager">

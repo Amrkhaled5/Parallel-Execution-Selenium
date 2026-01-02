@@ -30,7 +30,7 @@ public class BaseTest {
             driver = new RemoteWebDriver(new URL(HUB_URL), options);
 
         } else if (browser.equalsIgnoreCase("edge")) {
-            System.setProperty("webdriver.edge.driver", "C:\\Users\\Amrkh\\Downloads\\edgedriver_win64\\msedgedriver.exe");
+            System.setProperty("webdriver.edge.driver", "msedgedriver.exe");
             EdgeOptions options = new EdgeOptions();
             driver = new RemoteWebDriver(new URL(HUB_URL), options);
 
